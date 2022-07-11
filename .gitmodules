@@ -19,3 +19,6 @@
 [submodule "libopencm3-archive"]
 	path = libopencm3-archive
 	url = https://github.com/libopencm3/libopencm3-archive.git
+[submodule "FreeRTOS-Kernel"]
+	path = FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
