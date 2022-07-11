@@ -1,0 +1,21 @@
+[submodule "libopencm3"]
+	path = libopencm3
+	url = https://github.com/libopencm3/libopencm3.git
+[submodule "libopencm3-examples"]
+	path = libopencm3-examples
+	url = https://github.com/libopencm3/libopencm3-examples.git
+[submodule "libopencm3-template"]
+	path = libopencm3-template
+	url = https://github.com/libopencm3/libopencm3-template.git
+[submodule "libopencm3-miniblink"]
+	path = libopencm3-miniblink
+	url = https://github.com/libopencm3/libopencm3-miniblink.git
+[submodule "libopencm3.github.com"]
+	path = libopencm3.github.com
+	url = https://github.com/libopencm3/libopencm3.github.com.git
+[submodule "libopencm3-maintainer-tools"]
+	path = libopencm3-maintainer-tools
+	url = https://github.com/libopencm3/libopencm3-maintainer-tools.git
+[submodule "libopencm3-archive"]
+	path = libopencm3-archive
+	url = https://github.com/libopencm3/libopencm3-archive.git
